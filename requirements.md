@@ -150,7 +150,8 @@ Developers, especially students and junior engineers, face significant challenge
 - SM3: Achieve 85%+ user satisfaction rating
 - SM4: Maintain <5% hallucination rate with guard enabled
 - SM5: Generate accurate diagrams for 90%+ of code blocks
-
+ 
+ 
 ## Future Enhancements (Out of Scope for v1.0)
 
 - Multi-language support for UI
@@ -159,3 +160,4 @@ Developers, especially students and junior engineers, face significant challenge
 - Voice interaction mode
 - Custom model fine-tuning
 - Real-time pair programming mode
+ 

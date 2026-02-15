@@ -32,7 +32,7 @@
 │Pinecone)│  │            │  │          │
 └─────────┘  └────────────┘  └──────────┘
 ```
-
+ 
 ## Component Design
 
 ### 1. Frontend Layer (Streamlit)
